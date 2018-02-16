@@ -18,7 +18,10 @@ public class Main{
  
                     do{
                     
-                   
+                    System.out.println("Ejercicio # 2");
+                    System.out.println("");
+                    System.out.println("Este programa le va a ayudar a determinar el area y el perimetro de una figura determinada");
+                    System.out.println("Escoja la opcion correspondiente:");
                     System.out.println("1.-Cuadrado");    	
                     System.out.println("2.-Circulo");
                     System.out.println("3.-Salir");
